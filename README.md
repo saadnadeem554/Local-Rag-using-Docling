@@ -73,7 +73,7 @@ PDF Document
    Get your free API key from [console.groq.com/keys](https://console.groq.com/keys)
 
 ## 🚀 Usage
-
+run the terminal as administrator if you get errors loading the model.
 ### Interactive Chat Mode
 ```bash
 python main.py chat
